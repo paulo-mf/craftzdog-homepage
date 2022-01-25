@@ -65,11 +65,7 @@ const Home = () => (
           Quem somos
         </Heading>
         <Paragraph>
-          Produtora de conteúdos
-          - Tecnologia
-          - Produção
-          - Agenciamento
-          - Audiovisual
+          Produtora de conteúdos utilizando do melhor da tecnologia na produção, Agenciamento dos nossos parceiros no Audiovisual.
         </Paragraph>
         <Box align="center" my={4}>
           <NextLink href="/works">
@@ -86,7 +82,7 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>2022</BioYear>
-          Idealização - MVP, Candeias - Pernambuco.
+          Criação - Pernambuco.
         </BioSection>
         {/* <BioSection>
           <BioYear>2010</BioYear>
