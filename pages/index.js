@@ -65,7 +65,7 @@ const Home = () => (
           Quem somos
         </Heading>
         <Paragraph>
-          Produtora de conteúdos utilizando do melhor da tecnologia na produção, Agenciamento dos nossos parceiros no Audiovisual.
+          Produtora de conteúdos utilizando do melhor da tecnologia na produção e agenciamento dos nossos parceiros no Audiovisual.
         </Paragraph>
         <Box align="center" my={4}>
           <NextLink href="/works">
@@ -155,7 +155,7 @@ const Home = () => (
         <Box align="center" my={4}>
           <NextLink href="/posts">
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
-              Publicaões
+              Publicações
             </Button>
           </NextLink>
         </Box>
